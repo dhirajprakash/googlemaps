@@ -29,7 +29,7 @@
         });
 
         var ctaLayer = new google.maps.KmlLayer({
-          url: 'americana.kml',
+          url: 'https://raw.githubusercontent.com/dhirajprakash/googlemaps/master/americana.kml',
           map: map
         });
       }
