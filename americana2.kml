@@ -24,14 +24,14 @@
 		<LabelStyle>
 		</LabelStyle>
 		<LineStyle>
-			<color>000000</color>
+			<color>ff00ffff</color>
 		</LineStyle>
 	</Style>
 	<Style id="KMLStyler1">
 		<LabelStyle>
 		</LabelStyle>
 		<LineStyle>
-			<color>000000</color>
+			<color>ff00ffff</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
@@ -41,7 +41,7 @@
 		<LabelStyle>
 		</LabelStyle>
 		<LineStyle>
-			<color>000000</color>
+			<color>ff00ffff</color>
 		</LineStyle>
 		<PolyStyle>
 			<fill>0</fill>
